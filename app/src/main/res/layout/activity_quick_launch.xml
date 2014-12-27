@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffcb05">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quick_launch"
+        android:textColor="#00274c"
+        android:textSize="36dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/im_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/im_building"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/union_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/michigan_union"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/cc_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/cc_little"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/couzens_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/couzens"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/markley_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/markley"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/pierpont_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/pierpont"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/bursley_label"
+        android:textColor="@android:color/white"
+        android:background="#00274c"
+        android:layout_marginTop="10dp"
+        android:id="@+id/bursley"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

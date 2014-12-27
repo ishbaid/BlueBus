@@ -7,7 +7,7 @@ The links where you can access to various JSON objects relating to the blue buse
 
 http://mbus.doublemap.com/map/v2/stops
 http://mbus.doublemap.com/map/v2/buses
-http://mbus.doublemap.com/map/v2/eta?stop=*INSERT STOP ID*
+http://mbus.doublemap.com/map/v2/eta?stop= *INSERT STOP ID*
 http://mbus.doublemap.com/map/v2/routes
 
 And that's pretty much! 
